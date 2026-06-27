@@ -2,7 +2,7 @@
 
 🎓 **Graduate Student** @ University of Freiburg  
 💡 Passionate about **Embedded Systems, Power Electronics, and Hardware Prototyping**  
-🚗 3+ years in the **Automotive Industry** (Visteon & Bosch)  
+🚗 3+ years in the V&V roles 
 📜 3 Research Publications | 🛠 1 Patent under review  
 
 ---
